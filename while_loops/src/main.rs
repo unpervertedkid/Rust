@@ -1,5 +1,5 @@
 fn main() {
-    let mut i = 0;
+    let mut i:u32 = 0;
 
     while i <= 50{
         if i % 5 == 0{
