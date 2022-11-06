@@ -1,0 +1,3 @@
+I am learning to open files using Rust
+Files ensure information can be kept past a programs life cycle or be shared to other people.
+Opening files in Rust is easy.
